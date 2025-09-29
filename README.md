@@ -4,7 +4,7 @@ This project implements a **quantum-enhanced version** of the classic game, *Tic
 
 ---
 
-## 💡 Project Overview and Motivation
+## Project Overview and Motivation
 
 This project explores the concept of designing and playing games whose underlying logic directly executes on **quantum computers**. The goal is not to seek a quantum computational advantage, but to offer an accessible platform for a wider audience to experiment with and learn quantum circuits.
 
@@ -20,7 +20,7 @@ Our research suggests that while complete, complex quantum games like chess are 
 
 ---
 
-## 👨‍💻 Collaborators
+## Collaborators
 
 - Ryan Prax
 - Taylor Turner
@@ -28,7 +28,7 @@ Our research suggests that while complete, complex quantum games like chess are 
 
 ---
 
-## 🏫 Class Details
+## Class Details
 
 **Course**: CSC-4903 Introduction to Quantum Computing  
 **Institution**: Tennessee Technological University  
